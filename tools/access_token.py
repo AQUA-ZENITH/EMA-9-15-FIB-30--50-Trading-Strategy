@@ -1,8 +1,8 @@
 from kiteconnect import KiteConnect
 
 # 1. Enter your details here
-API_KEY = "v5d80jcdz13zbop1"
-API_SECRET = "mi7t4feryrte2t009sttlofifgxqgyht"
+API_KEY = "your_api_key"
+API_SECRET = "your_api_secret"
 
 # 2. Initialize Kite
 kite = KiteConnect(api_key=API_KEY)
