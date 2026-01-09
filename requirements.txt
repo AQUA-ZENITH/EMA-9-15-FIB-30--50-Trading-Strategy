@@ -1,0 +1,6 @@
+kiteconnect
+pandas
+numpy
+requests
+python-dotenv
+pytz
